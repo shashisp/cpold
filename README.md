@@ -1,1 +1,1 @@
-## [Hackerearth solutions](hackerearth.com) :D
+## [Hackerearth solutions](http://hackerearth.com)
