@@ -135,7 +135,7 @@ def reply_post(post_list):
            "'Thank you [name] :)'\nWhen making your own reply "
            "use [name] to insert the name of the friend.\n")
     reply = raw_input("Enter your reply (enter d for default) : ")
-    reply = 'Thank you [name] :)' if reply == 'd' else reply
+    reply = 'I m spamming my wall to test my app :)' if reply == 'd' else reply
 
     # creates a single batch request instead of HTTP requests for
     # each post
